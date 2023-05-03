@@ -1,6 +1,6 @@
 # mixmod-notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vandaele/mixmod-notebook/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/vandaele/mixmod-notebook/master)
 
 Run Rmixmod notebooks into the cloud using the Binder service by clicking the badge above.
 
